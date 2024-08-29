@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Cella Audi</h1>
-<h3 align="center">A recent graduate of Informatics Engineering at University of Surabaya</h3>
+<h1 align="left">Hola 👋, I'm Cella Audi</h1>
+<h3 align="left">A recent graduate of Informatics Engineering at University of Surabaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cellaaudi&label=Profile%20views&color=0e75b6&style=flat" alt="cellaaudi" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Laravel and Flutter development**
 
-- 📫 How to reach me: **cellaaudist@gmail.com**
+- 📫 How to reach me: **cellaaudist@gmail.com** or DM me on <a href="https://instagram.com/cellaaudi" target="blank">@cellaaudi</a>
 
 - ⚡ Fun fact **about me is besides programming, I also have proven graphic design skills by having been assigned as vice coordinator of the publication, documentation and design division at an event held by University of Surabaya.**
 
